@@ -16,7 +16,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por transformar dados em informações �
 
 ## 🌟 Aprendizado
 
-- Me formei pela PUCPR em Analise e Desenvolvimento de Dados
+- Me formei pela PUCPR em Analise e Desenvolvimento de Sistemas
 - Sql para Análise de Dados
 - Excel Intermediario
 - Estou sempre aprendendo e compartilhando conhecimento, com foco em estatística, modelagem preditiva e storytelling com dados.
