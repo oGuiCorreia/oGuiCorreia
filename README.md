@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme Q. Correia 👋
+# Olá, eu sou Guilherme Quirino Correia 👋
 
 📊 Analista de Dados | Explorador de Insights a Partir de Dados
 
